@@ -6,24 +6,7 @@
     <projectFile>Test/Test.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f321fe9-65e8-47b0-a13e-eef3119aa9fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Test.dir/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Test.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Test.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestApp/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestApp/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestApp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestApp/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestApp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestApp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/ConsoleApp1.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Test.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/TestApp.csproj" afterDir="false" />
-    </list>
+    <list default="true" id="7f321fe9-65e8-47b0-a13e-eef3119aa9fb" name="Changes" comment="Test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,9 +16,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestApp/Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestApp/obj/Debug/net5.0/TestApp.GlobalUsings.g.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/New Folders/Test/Test/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/New Folders/Test/Test/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,14 +28,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.TestApp">
     <configuration name="ConsoleApp1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -121,6 +103,14 @@
       <workItem from="1655059146368" duration="27000" />
       <workItem from="1655059380186" duration="299000" />
     </task>
+    <task id="LOCAL-00001" summary="Test">
+      <created>1655066073323</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655066073323</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,5 +129,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
 </project>
